@@ -1,5 +1,4 @@
 ## Create React App Visualization
 
-This assessment was bespoke handcrafted for hari annem.
-
-Read more about this assessment [here](https://react.eogresources.com)
+This is a sample react visualization questions
+[here](https://react.eogresources.com)
